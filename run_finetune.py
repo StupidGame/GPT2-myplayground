@@ -216,7 +216,7 @@ def main():
 
         try:
             #while True:
-            for i in range(1000):
+            for i in range(500):
                 if counter % args.save_every == 0:
                     save()
 
